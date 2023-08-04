@@ -1,2 +1,4 @@
 - Update checker
-- Added print into console
+- Added debug prints into console
+- Added Marshaling system
+- More configuratable options
