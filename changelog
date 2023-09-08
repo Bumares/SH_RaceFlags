@@ -1,4 +1,5 @@
-- Update checker
-- Added debug prints into console
 - Added Marshaling system
+- Added tablet nui
+- Added debug prints into console
+- Update checker
 - More configuratable options
