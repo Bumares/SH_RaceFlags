@@ -1,5 +1,6 @@
 - Added Marshaling system
 - Added tablet nui
+- Added config validator
 - Added debug prints into console
 - Update checker
 - More configuratable options
